@@ -1,4 +1,4 @@
-# Pet Care Center Project 01
+# Pet Care Center - Project 01
 An extensive web application called Furry Fam was created with pet owners and enthusiasts in mind. With services for purchasing, training, health, and other aspects of pet care, this portal acts as a one-stop shop for pet care. It strives to offer trustworthy data and easy access to resources that improve pets' quality of life.
 # Key Features
 1. Pet Services: Comprehensive lists of features and choices for a range of pet services, including as training.
